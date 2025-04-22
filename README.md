@@ -2,6 +2,11 @@
 
 CLI tool for interacting the Liquid Network, built as part of Angor competency test.
 
+## Demo
+
+![Screenshot 2025-04-17 222706](https://github.com/user-attachments/assets/357d1ba2-c4a2-4873-b1c5-7593ffb22745)
+
+
 ## Features
 
 - Generates Liquid addresses (confidential and non-confidential)
